@@ -1,0 +1,23 @@
+# Ignore bundler config.
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+bundler_stubs/# Ignore bundler config.
+/.bundle
+
+# Ignore other unneeded files.
+/config/database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
